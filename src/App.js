@@ -12,9 +12,9 @@ function App() {
     <img className="image2" src="portalinpublic.jpeg" alt="jsx" />
     </div>
     <video className="video1" width="750" height="500" controls >
-      <source src={video} type="video/mp4"/>
+       <source src="myvideo.mp4" type={video}/>
      </video>
-  </div>
+</div>
   );
 }
 
