@@ -1,0 +1,22 @@
+.title-red {
+    color: rgb(223, 8, 8);
+    text-align: center;
+    margin-left: 600px;
+    width: 50%;
+    height: 70%;
+    padding: 10px;
+}
+div {
+    background-color: rgb(9, 12, 10);
+}
+ 
+.image1 , .image2 , .video1{
+
+
+display: flex;
+
+flex-wrap: wrap;
+
+
+
+}
